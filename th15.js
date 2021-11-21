@@ -12,7 +12,7 @@ else{
 factorial=factorial*k;
 console.log(factorial);
 }
-k++;
+k++;// 2+ означает бесконечное дейтсвие
 counter--;
 }while(counter > 1);
 document.write(factorial);
